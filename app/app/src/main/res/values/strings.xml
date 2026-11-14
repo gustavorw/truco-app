@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Placar de Truco</string>
+    <string name="plus1">+ 1</string>
+    <string name="plus3">+ 3</string>
+    <string name="plus6">+ 6</string>
+    <string name="plus9">+ 9</string>
+    <string name="plus12">+ 12</string>
+    <string name="player1">Jogador #1</string>
+    <string name="player2">Jogador #2</string>
+    <string name="default_score">0</string>
+    <string name="edit_nicknames">Editar apelidos</string>
+    <string name="view_matches">Histórico de partidas</string>
+    <string name="title_edit_names">Editar nomes</string>
+    <string name="hint_player_one">Apelido Jogador #1</string>
+    <string name="hint_player_two">Apelido Jogador #2</string>
+    <string name="save_changes">Confirmar alterações</string>
+    <string name="title_matches">Histórico de partidas</string>
+    <string name="empty_list">Nenhuma partida registrada.</string>
+    <string name="clean_score">Resetar Game e Histórico</string>
+</resources>
